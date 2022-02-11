@@ -1,4 +1,4 @@
-# ESL Project1 - DMA_controller_in_SystemC - vincent08tw
+# ESL Project2 - DMA_controller_in_TLM2_0 - vincent08tw
 ###### tags: `ESL` `SystemC`
 
 ## Outline
